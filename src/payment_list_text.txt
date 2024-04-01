@@ -1,1 +1,0 @@
-PaymentMethod	Cash	Credit/debit Card
