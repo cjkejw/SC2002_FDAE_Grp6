@@ -1,0 +1,7 @@
+1
+FRIES	3.2	side,BURGER	8.0	set meal
+Pending
+
+2
+fries	3.2	side,burger	8.8	set meal
+Pending
