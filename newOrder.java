@@ -173,20 +173,25 @@ public class newOrder {
         // Get the order table
         Hashtable<String, List<Order>> orderTable = record.getOrderTable();
 
-        // Retrieve the list of orders for the specified branch
-        List<Order> orders = orderTable.get(branchName);
+        // Ensure record and orderTable are initialized
+        if (record != null && orderTable != null) {
+            // Retrieve the list of orders for the specified branch
+            List<Order> orders = orderTable.get(branchName);
 
-        // If no orders exist for this branch, create a new list
-        if (orders == null) {
-            orders = new ArrayList<>();
-            orderTable.put(branchName, orders);
+            // If no orders exist for this branch, create a new list
+            if (orders == null) {
+                orders = new ArrayList<>();
+                orderTable.put(branchName, orders);
+            }
+
+            // Add the new order to the list
+            orders.add(order);
+
+            // Export the updated order table
+            record.exportOrderData();
+        } else {
+            System.out.println("Error: Record or orderTable is not properly initialized.");
         }
-
-        // Add the new order to the list
-        orders.add(order);
-
-        // Export the updated order table
-        record.exportOrderData();
     }
 	
 }
