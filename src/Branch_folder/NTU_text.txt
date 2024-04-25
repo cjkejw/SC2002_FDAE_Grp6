@@ -1,0 +1,5 @@
+NTU
+North Spine Plaza
+8
+OPEN
+FRIES	3.2	side,3PC set meal	9.9	set meal,chicken nugget	6.6	side,
