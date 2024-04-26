@@ -6,6 +6,10 @@ This is our `first year semester 2 project`.
 We are tasked with writing a Fastfood Ordering and Management System that allows the process of ordering and collecting for customers, and order and staff management for Staff of the Company. 
 The goal of the project is to adopt Obect-Oriented Concepts (OOP) to built a `resuable`, `easy to maintain` and `extendable` program to the best of our ability. 
 
+## User Guide 
+- src --> Java source codes of our project
+- UML --> our UML Class Diagram
+
 ## OOP Concepts Applied
 - Inheritance
 - Polymorphism
