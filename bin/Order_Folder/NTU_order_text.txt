@@ -1,0 +1,24 @@
+1
+FRIES	3.2	side	Ketchup
+Pending
+Takeaway
+
+2
+3PC set meal	9.9	set meal	Spicy	Ketchup
+Pending
+Takeaway
+
+3
+chicken nugget	6.6	side	Ketchup
+Pending
+Dine-in
+
+5
+chicken nugget	6.6	side	Ketchup,3PC set meal	9.9	set meal	Spicy	Chilli Sauce
+Ready to pick up
+Dine-in
+
+4
+chicken nugget	6.6	side	Ketchup
+Collected
+Dine-in
