@@ -1,0 +1,34 @@
+1
+FRIES	3.2	side	Ketchup
+Pending
+Takeaway
+
+4
+FRIES	3.2	side	Ketchup
+Pending
+Dine-in
+
+5
+3PC set meal	9.9	set meal	Non-Spicy	No Sauce
+Pending
+Dine-in
+
+7
+3PC set meal	9.9	set meal	Spicy	Ketchup
+Pending
+Takeaway
+
+3
+FRIES	3.2	side	Ketchup,3PC set meal	9.9	set meal	Non-Spicy	Chilli Sauce
+Ready to pick up
+Takeaway
+
+8
+3PC set meal	9.9	set meal	Non-Spicy	Ketchup
+Pending
+Dine-in
+
+6
+FRIES	3.2	side	Ketchup
+Collected
+Dine-in
