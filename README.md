@@ -9,12 +9,16 @@ The goal of the project is to adopt Obect-Oriented Concepts (OOP) to built a `re
 ## User Guide 
 - src --> Java source codes of our project
 - UML --> our UML Class Diagram
+  1. `Boundary UML` shows all the `Bounday Classes`
+  2. `Controller UML` shows all the `Controller Classes`
+  3. `Entity UML` shows all the `Entity Classes`
+  4. `Final UML` shows `all the different Classses` together and how they `interact` with one another
 - JavaDoc --> our java documentation of everything.
   To access, follow these steps:
-  1. Download the file
-  2. Enter JavaDoc
-  3. Enter src
-  4. Enter JavaDocTest
+  1. `Download` the file
+  2. Enter `JavaDoc`
+  3. Enter `src`
+  4. Enter `JavaDocTest`
   
   From there you may choose to view any package folder to see the documentation of each classes
 
