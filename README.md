@@ -63,7 +63,7 @@ Admin actions include:
 ### Implementation code: 
 - @cjkejw Wang Shi Ying
 - @thuvathetuba Thuvaarakesh Kirupara
-- @hildil Teo Hilda
+- @hildil Tio Hilda
 
 #### UML and Architecture:
 - @CatilonyZhang Zhang Yichi
