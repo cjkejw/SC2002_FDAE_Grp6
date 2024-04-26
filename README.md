@@ -16,11 +16,15 @@ Staff actions include:
 - Viewing details of particular order
 - Processing orders (updating order status from "Pending" to "Ready to pick up")
 
+<br>
+
 #### Manager
 Manager actions include:
 - All staff actions
 - Displaying staff list in the branch supervised by the specific manager
 - Adding, editting, or removing menu items, price and availability (menu items and prices may vary among the different branches)
+
+<br>
 
 #### Admin
 Admin actions include:
@@ -31,6 +35,8 @@ Admin actions include:
 - Transferring staff/ manager among branches
 - Adding/ removing payment method
 - Opening/ closing branch
+
+<br>
 
 #### Contributors:
 Implementation code: 
