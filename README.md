@@ -40,12 +40,12 @@ Admin actions include:
 
 #### Contributors:
 Implementation code: 
-@cjkejw
-@thuvathetuba
-@hildil
+@cjkejw Wang Shi Ying
+@thuvathetuba Thuvaarakesh Kiruparan
+@hildil Teo Hilda
 
 UML:
-@CatilonyZhang
+@CatilonyZhang Zhang Yichi
 
 
 
