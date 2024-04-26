@@ -1,0 +1,8 @@
+AlicaA	NEW	Alica Ang	M	F	27	NTU
+MaryL	password	Mary lee	S	F	44	JE
+boss	Password	Boss	A	F	62	-
+TomC	password	Tom Chan	M	M	56	JP
+Staff Login ID	password	Name	Role	Gender	Age	Branch
+JustinL	password	Justin Loh	S	M	49	JP
+Alexei	password	Alexei	M	M	25	NTU
+kumarB	p1	kumar Blackmore	M	M	32	NTU

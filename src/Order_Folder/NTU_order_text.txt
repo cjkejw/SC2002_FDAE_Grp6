@@ -1,0 +1,99 @@
+1
+FRIES	3.2	side	Ketchup
+Pending
+Takeaway
+
+3
+FRIES	3.2	side	Ketchup,3PC set meal	9.9	set meal	Non-Spicy	Chilli Sauce
+Pending
+Takeaway
+
+4
+FRIES	3.2	side	Ketchup
+Pending
+Dine-in
+
+5
+3PC set meal	9.9	set meal	Non-Spicy	No Sauce
+Pending
+Dine-in
+
+6
+FRIES	3.2	side	Ketchup
+Pending
+Dine-in
+
+7
+3PC set meal	9.9	set meal	Non-Spicy	Ketchup
+Pending
+Dine-in
+
+8
+FRIES	3.2	side	Chilli Sauce,3PC set meal	9.9	set meal	Non-Spicy	Curry Sauce
+Pending
+Dine-in
+
+9
+3PC set meal	9.9	set meal	Spicy	Curry Sauce
+Pending
+Dine-in
+
+10
+3PC set meal	9.9	set meal	Non-Spicy	Ketchup
+Pending
+Takeaway
+
+11
+3PC set meal	9.9	set meal	Spicy	Curry Sauce
+Pending
+Dine-in
+
+12
+chicken nugget	6.6	side	Ketchup
+Pending
+Takeaway
+
+13
+3PC set meal	9.9	set meal	Non-Spicy	Ketchup
+Pending
+Dine-in
+
+14
+3PC set meal	9.9	set meal	Non-Spicy	Curry Sauce
+Pending
+Takeaway
+
+15
+FRIES	3.2	side	Curry Sauce
+Pending
+Dine-in
+
+16
+FRIES	3.2	side	Chilli Sauce
+Pending
+Dine-in
+
+2
+3PC set meal	9.9	set meal	Non-Spicy	Chilli Sauce
+Collected
+Takeaway
+
+17
+chicken nugget	6.6	side	Curry Sauce
+Pending
+Dine-in
+
+18
+chicken nugget	6.6	side	Curry Sauce
+Pending
+Dine-in
+
+19
+3PC set meal	9.9	set meal	Spicy	Curry Sauce,FRIES	3.2	side	Ketchup
+Pending
+Dine-in
+
+20
+3PC set meal	9.9	set meal	Spicy	No Sauce
+Ready to pick up
+Takeaway
