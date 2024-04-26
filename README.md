@@ -19,6 +19,7 @@ The goal of the project is to adopt Obect-Oriented Concepts (OOP) to built a `re
   2. Enter `JavaDoc`
   3. Enter `src`
   4. Enter `JavaDocTest`
+- Fastfood ordering and management System (FOMS).pdf --> our presentation slides
   
   From there you may choose to view any package folder to see the documentation of each classes   
 
