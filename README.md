@@ -48,12 +48,12 @@ Admin actions include:
 
 ## Contributors:
 ### Implementation code: 
-@cjkejw Wang Shi Ying\n
-@thuvathetuba Thuvaarakesh Kiruparan\n
-@hildil Teo Hilda\n
+- @cjkejw Wang Shi Ying
+- @thuvathetuba Thuvaarakesh Kirupara
+- @hildil Teo Hilda
 
 #### UML and Architecture:
-@CatilonyZhang Zhang Yichi
+- @CatilonyZhang Zhang Yichi
 
 
 
