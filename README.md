@@ -40,9 +40,9 @@ Admin actions include:
 
 #### Contributors:
 Implementation code: 
-@cjkejw Wang Shi Ying
-@thuvathetuba Thuvaarakesh Kiruparan
-@hildil Teo Hilda
+@cjkejw Wang Shi Ying\n
+@thuvathetuba Thuvaarakesh Kiruparan\n
+@hildil Teo Hilda\n
 
 UML:
 @CatilonyZhang Zhang Yichi
