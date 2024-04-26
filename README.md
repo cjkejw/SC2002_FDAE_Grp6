@@ -1,19 +1,17 @@
 # SC2002_FDAE_Grp6 
 ## Fastfood Ordering and Management System (FOMS)
 
-### About 
-<br>
+## About 
 This is our `first year semester 2 project`. We are tasked with writing a Fastfood Ordering and Management System that allows the process of ordering and collecting for customers, and order and staff management for Staff of the Company. 
 The goal of the project is to adopt Obect-Oriented Concepts (OOP) to built a `resuable`, `easy to maintain` and `extendable` program to the best of our ability. 
 
-### OOP Concepts Applied
+## OOP Concepts Applied
 - Inheritance
 - Polymorphism
 - Exception Handling
 For the in-depth breakdown, please refer to our report.
 
-### Feature of our program
-<br>
+## Feature of our program
 #### Login System 
 - Each default password for users is `password`
 
@@ -48,7 +46,7 @@ Admin actions include:
 
 <br>
 
-### Contributors:
+## Contributors:
 ### Implementation code: 
 @cjkejw Wang Shi Ying\n
 @thuvathetuba Thuvaarakesh Kiruparan\n
