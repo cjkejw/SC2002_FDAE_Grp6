@@ -7,7 +7,6 @@ This is our `first year semester 2 project`. We are tasked with writing a Fastfo
 The goal of the project is to adopt Obect-Oriented Concepts (OOP) to built a `resuable`, `easy to maintain` and `extendable` program to the best of our ability. 
 
 ### OOP Concepts Applied
-<br>
 - Inheritance
 - Polymorphism
 - Exception Handling
