@@ -11,21 +11,18 @@ Customer actions include:
 <br>
 
 #### Staff
-<br>
 Staff actions include:
 - Displaying new orders
 - Viewing details of particular order
 - Processing orders (updating order status from "Pending" to "Ready to pick up")
 
 #### Manager
-<br>
 Manager actions include:
 - All staff actions
 - Displaying staff list in the branch supervised by the specific manager
 - Adding, editting, or removing menu items, price and availability (menu items and prices may vary among the different branches)
 
 #### Admin
-<br>
 Admin actions include:
 - Adding, editting or removing Staff accounts
 - Displaying staff list (filtered by branch, role, gender or age range)
