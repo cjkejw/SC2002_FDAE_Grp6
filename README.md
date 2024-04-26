@@ -1,5 +1,6 @@
 # SC2002_FDAE_Grp6 
 ## Fastfood Ordering and Management System (FOMS)
+<img width="1431" alt="Screenshot 2024-04-26 at 7 00 39 PM" src="https://github.com/cjkejw/SC2002_FDAE_Grp6/assets/143668219/3ae1988f-7be0-4f2c-91e2-d521c9763945">
 
 ## About 
 This is our `first year semester 2 project`. 
