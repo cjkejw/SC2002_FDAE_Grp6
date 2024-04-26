@@ -20,19 +20,7 @@ The goal of the project is to adopt Obect-Oriented Concepts (OOP) to built a `re
   3. Enter `src`
   4. Enter `JavaDocTest`
   
-  From there you may choose to view any package folder to see the documentation of each classes
-
- 
-───▄▀▀▀▄▄▄▄▄▄▄▀▀▀▄─── <br>
-───█▒▒░░░░░░░░░▒▒█─── <br>
-────█░░█░░░░░█░░█──── <br>
-─▄▄──█░░░▀█▀░░░█──▄▄─ <br>
-█░░█─▀▄░░░░░░░▄▀─█░░█ <br>
-█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█ <br>
-█░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█ <br>
-█░░║║║╠─║─║─║║║║║╠─░░█ <br>
-█░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█ <br>
-█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█      Source: https://emojicombos.com/welcome <br>
+  From there you may choose to view any package folder to see the documentation of each classes   
 
 ## OOP Concepts Applied
 - Inheritance
@@ -84,6 +72,8 @@ Admin actions include:
 #### UML and Architecture:
 - @CatilonyZhang Zhang Yichi
 
+## References
+- Image: https://emojicombos.com/welcome <br>
 
 
 
